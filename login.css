@@ -1,0 +1,9 @@
+/*css element selector*/
+label{
+    color: brown;
+    font-size: 70px;
+}
+
+p{
+    color: blue;
+}
