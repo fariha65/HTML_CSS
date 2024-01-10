@@ -1,0 +1,10 @@
+.btn{
+    background-color: hotpink;
+    border-radius: 6px;
+    color:navy;
+    padding: 30px;
+}
+.btn:hover{
+    background-color: aqua;
+
+}

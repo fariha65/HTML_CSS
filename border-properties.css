@@ -1,0 +1,19 @@
+h1{
+    border-style: dotted;
+}p{
+    border-style: groove;
+}
+div{
+    border-style:outset;
+}
+#my-id{
+    border-style:dashed;
+}
+
+.my-text-class{
+    border-style: double;
+}
+
+#poem,#details{
+    border-style:ridge;
+}

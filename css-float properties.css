@@ -1,0 +1,20 @@
+#img1{
+    
+    float:left;
+}
+
+#img2{
+    
+    float:right;
+}
+
+
+#img3{
+    
+    float:initial;
+}
+
+#img4{
+   
+    float:inherit;
+}

@@ -1,0 +1,38 @@
+/*css cls selector-*/
+.my-text-style{/*reusable*/
+    color:rgb(255, 0, 140);
+    font-size:70px;
+}
+
+/*id selector..indivisual hbe*/
+#my-id{/*reusable*/
+    color:rgb(0, 0, 0);
+    font-size:70px;
+}
+
+
+
+
+/*group selector*/
+h1,p{/*reusable*/
+    color:rgb(62, 112, 39);
+    font-size:70px;
+}
+
+/*unicersal selector*/
+*{/*reusable*/
+    color:red;
+   /* font-size:70px;*/
+}
+/*
+body{
+    background-color: rgb(157, 255, 0);
+}*/
+
+body{
+  background-image:url(Capture.JPG);
+  
+  background-repeat: no-repeat;
+  background-attachment: fixed;/*imageti  fixed position jure thakbe*/
+  background-size: cover;/*backgroung img full screen jure thake*/  
+}
